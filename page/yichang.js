@@ -1,4 +1,4 @@
-module.exports=[
+module.exports=
 	{
 	"props":{
 		"pageProps":{
@@ -98,5 +98,3 @@ module.exports=[
 			}
 		}
 	}
-			
-]

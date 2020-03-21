@@ -1,4 +1,4 @@
-module.exports =[{
+module.exports ={
             packageList:
             {
                 "list":
@@ -138,4 +138,3 @@ module.exports =[{
                     }
 ],
 }
-]

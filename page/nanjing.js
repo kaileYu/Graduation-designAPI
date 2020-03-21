@@ -1,4 +1,4 @@
-module.exports=[
+module.exports=
 	{"props":
 	{
 	"packageList":
@@ -420,4 +420,3 @@ module.exports=[
 		],
 	}
 }
-]

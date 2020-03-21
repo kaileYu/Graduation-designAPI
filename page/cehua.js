@@ -1,4 +1,4 @@
-module.exports=[
+module.exports=
 	{
 		"pageProps":
 		{
@@ -100,4 +100,3 @@ module.exports=[
 				{"id":112,"name":"场地","level":1,"children":[{"id":5656,"markId":231532,"name":"室内","level":2},{"id":3915,"markId":62715,"name":"户外","level":2},{"id":326,"markId":71,"name":"海外","level":2}]},
 				{"id":322,"name":"颜色","level":1,"children":[{"id":3916,"markId":29063,"name":"粉色","level":2},{"id":330,"markId":186,"name":"红色","level":2},{"id":337,"markId":588,"name":"香槟色","level":2},{"id":335,"markId":194,"name":"金色","level":2},{"id":328,"markId":35,"name":"蒂芙尼蓝","level":2},{"id":333,"markId":190,"name":"绿色","level":2},{"id":817,"markId":191,"name":"蓝色","level":2},{"id":331,"markId":193,"name":"紫色","level":2},{"id":334,"markId":195,"name":"白色","level":2},{"id":338,"markId":189,"name":"黄色","level":2},{"id":343,"markId":591,"name":"灰色","level":2},{"id":341,"markId":334,"name":"黑色","level":2},{"id":3917,"markId":98,"name":"撞色","level":2}]}
 			]}}
-]

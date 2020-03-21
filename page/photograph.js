@@ -1,4 +1,4 @@
-module.exports=[
+module.exports=
 	{
             "props": {
                 "list": 
@@ -450,4 +450,3 @@ module.exports=[
             ],
 
         }
-]
